@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "joomha"
-version = "1.0.0"
+version = "1.0.1"
 description = "AI-powered CLI for understanding any codebase through conversation"
 readme = "README.md"
 license = "MIT"
