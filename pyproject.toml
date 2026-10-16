@@ -43,8 +43,8 @@ joomha = "joomha.cli:app"
 joomhalab = "joomhalab.cli:app"
 
 [project.urls]
-Homepage   = "https://github.com/username/joomha"
-Repository = "https://github.com/username/joomha"
+Homepage   = "https://github.com/joomha/Joomha-CLI_AI_Code"
+Repository = "https://github.com/joomha/Joomha-CLI_AI_Code"
 
 [tool.setuptools.packages.find]
 where   = ["."]

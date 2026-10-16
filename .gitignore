@@ -25,6 +25,7 @@ __pycache__/
 dist/
 build/
 *.egg
+joomha-*/
 
 # OS Files
 .DS_Store
